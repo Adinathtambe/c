@@ -33,4 +33,6 @@ void main(){
 
 int c = 10+ 20*4-3+2/6-8+3;
 printf("%d",c);
+printf("Hello");
+//
 }
